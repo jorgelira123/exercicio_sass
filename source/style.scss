@@ -1,7 +1,6 @@
 @use './config/reset.scss';
 @use './config/cores.scss';
 @use './config/breakpoints.scss';
-@use './secoes/products.scss';
 
 body {
     background-color: cores.$corPrincipal;
